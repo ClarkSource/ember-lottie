@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://www.clark.de/de/jobs">
     <br><br><br><br><br>
-    <img alt="CLARK" src="./docs/assets/clark.svg" height="40">
+    <img alt="CLARK" src="https://raw.githubusercontent.com/ClarkSource/ember-lottie/HEAD/docs/assets/clark.svg" height="40">
     <br><br><br><br><br>
   </a>
 </p>
 
-# ember-lottie <img align="right" alt="Lottie" src="./docs/assets/lottie.gif" height="100">
+# ember-lottie <img align="right" alt="Lottie" src="https://raw.githubusercontent.com/ClarkSource/ember-lottie/HEAD//docs/assets/lottie.gif" height="100">
 
 [![CI](https://github.com/ClarkSource/ember-lottie/workflows/CI/badge.svg)](https://github.com/ClarkSource/ember-lottie/actions)
 [![npm version](https://badge.fury.io/js/ember-lottie.svg)](http://badge.fury.io/js/ember-lottie)
