@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# ember-lottie <img align="right" alt="Lottie" src="./docs/assets/lottie.gif" height="200">
+# ember-lottie <img align="right" alt="Lottie" src="./docs/assets/lottie.gif" height="100">
 
 [![CI](https://github.com/buschtoens/ember-link/workflows/CI/badge.svg)](https://github.com/buschtoens/ember-link/actions)
 [![npm version](https://badge.fury.io/js/ember-lottie.svg)](http://badge.fury.io/js/ember-lottie)
