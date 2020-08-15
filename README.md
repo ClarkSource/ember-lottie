@@ -8,7 +8,7 @@
 
 # ember-lottie <img align="right" alt="Lottie" src="./docs/assets/lottie.gif" height="100">
 
-[![CI](https://github.com/buschtoens/ember-link/workflows/CI/badge.svg)](https://github.com/buschtoens/ember-link/actions)
+[![CI](https://github.com/ClarkSource/ember-lottie/workflows/CI/badge.svg)](https://github.com/ClarkSource/ember-lottie/actions)
 [![npm version](https://badge.fury.io/js/ember-lottie.svg)](http://badge.fury.io/js/ember-lottie)
 [![Download Total](https://img.shields.io/npm/dt/ember-lottie.svg)](http://badge.fury.io/js/ember-lottie)
 [![Ember Observer Score](https://emberobserver.com/badges/-clark-ember-lottie.svg)](https://emberobserver.com/addons/ember-lottie)
