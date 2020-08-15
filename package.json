@@ -1,17 +1,28 @@
 {
   "name": "ember-lottie",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Render vector animations with lottie-web in Ember.js",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "lottie",
+    "lottie-web",
+    "ember",
+    "animation",
+    "animate",
+    "vector",
+    "graphics",
+    "after effects"
   ],
-  "repository": "",
-  "license": "MIT",
-  "author": "",
-  "directories": {
-    "doc": "doc",
-    "test": "tests"
+  "homepage": "https://github.com/ClarkSource/ember-lottie#readme",
+  "bugs": {
+    "url": "https://github.com/ClarkSource/ember-lottie/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkSource/ember-lottie.git"
+  },
+  "license": "MIT",
+  "author": "Jan Buschtöns <jan.buschtoens@clark.de>",
   "scripts": {
     "build": "ember build --environment=production",
     "lint": "npm-run-all --aggregate-output --continue-on-error --parallel lint:*",
