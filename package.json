@@ -41,6 +41,7 @@
     "ember-cli-typescript": "^4.0.0-rc.1"
   },
   "devDependencies": {
+    "@clark/ember-template-lint-config": "^0.2.2",
     "@clark/eslint-config-ember": "^1.28.1",
     "@clark/eslint-config-ember-typescript": "^1.28.1",
     "@clark/eslint-config-node": "^1.28.1",

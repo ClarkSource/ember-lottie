@@ -1,5 +1,6 @@
 'use strict';
 
 module.exports = {
-  extends: 'octane'
+  plugins: ['@clark/ember-template-lint-config'],
+  extends: 'clark:octane'
 };
