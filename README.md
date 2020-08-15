@@ -30,3 +30,7 @@ Render spectacular, pixel-perfect vector animations from
 ```sh
 ember install ember-lottie
 ```
+
+## Development Status
+
+Under active development. Not yet production-ready.
