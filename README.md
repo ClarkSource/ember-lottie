@@ -20,10 +20,18 @@
 Render spectacular, pixel-perfect vector animations from
 [After Effects][after-effects] with [**Lottie**][lottie] in [Ember.js][ember]!
 
+[🦄 **Demo**][demo]&emsp;•&emsp;
+[💡 **Guide**][guide]&emsp;•&emsp;
+[📚 **API Docs**][api]&emsp;•&emsp;
+[👉 **`lottie-web`**][lottie-web]
+
 [lottie]: https://airbnb.design/lottie/
 [after-effects]: https://www.adobe.com/products/aftereffects.html#
 [ember]: https://emberjs.com/
 [lottie-web]: https://github.com/airbnb/lottie-web
+[demo]: https://clarksource.github.io/ember-lottie/
+[guide]: https://clarksource.github.io/ember-lottie/guide
+[api]: https://clarksource.github.io/ember-lottie/api
 
 ## Installation
 
