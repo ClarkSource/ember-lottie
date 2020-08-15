@@ -2,5 +2,5 @@
 
 module.exports = {
   root: true,
-  extends: '@clark/node'
+  extends: '@clark/ember-typescript/test'
 };
