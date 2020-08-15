@@ -17,9 +17,12 @@
 [![dependencies Status](https://david-dm.org/ClarkSource/ember-lottie/status.svg)](https://david-dm.org/ClarkSource/ember-lottie)
 [![devDependencies Status](https://david-dm.org/ClarkSource/ember-lottie/dev-status.svg)](https://david-dm.org/ClarkSource/ember-lottie?type=dev)
 
-[**Lottie**][lottie] for Ember.js!
+Render spectacular, pixel-perfect vector animations from
+[After Effects][after-effects] with [**Lottie**][lottie] in [Ember.js][ember]!
 
 [lottie]: https://airbnb.design/lottie/
+[after-effects]: https://www.adobe.com/products/aftereffects.html#
+[ember]: https://emberjs.com/
 [lottie-web]: https://github.com/airbnb/lottie-web
 
 ## Installation
