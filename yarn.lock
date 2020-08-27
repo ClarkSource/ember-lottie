@@ -1001,10 +1001,10 @@
     find-up "^5.0.0"
     type-fest "^0.16.0"
 
-"@clark/prettier-config@^1.28.1":
-  version "1.28.1"
-  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-1.28.1.tgz#8533bebd59cf576da33fdbfb9405974e4a1ccc70"
-  integrity sha512-+6Op0bV1+hh3dswrDviO4btTo2U5+w8NzZi/WQCSa5Dow+piVKPajjNXUUJAkw6pSYMZy1oyeek2ijGcBPKfdw==
+"@clark/prettier-config@^1.28.1", "@clark/prettier-config@^1.28.2":
+  version "1.28.2"
+  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-1.28.2.tgz#76e476c62e5cdf782460881370ea8b7b5e691a65"
+  integrity sha512-1xmaaTK95gsQgwR1mPXxRKKagPQ+gc1zDdKbNswSv5jAjrVSXT8ITRFwR32NY05Ru+yKERJDYGk5fJ01iYIujw==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
