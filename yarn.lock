@@ -1161,10 +1161,10 @@
   resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-1.28.2.tgz#76e476c62e5cdf782460881370ea8b7b5e691a65"
   integrity sha512-1xmaaTK95gsQgwR1mPXxRKKagPQ+gc1zDdKbNswSv5jAjrVSXT8ITRFwR32NY05Ru+yKERJDYGk5fJ01iYIujw==
 
-"@clark/prettier-config@^2.1.0":
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-2.1.0.tgz#2b4de9b37b30a16d87b7aff99fda7861307a7aa5"
-  integrity sha512-+dVJiLr0335uqAYoAcJuB+u33UlANNEFeYm8OjWWvjYER6fJHCsRkn1CbX2FIG7jdMpBiu/JCRKsqj+QlX0h/w==
+"@clark/prettier-config@^2.1.0", "@clark/prettier-config@^2.2.0":
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/@clark/prettier-config/-/prettier-config-2.2.0.tgz#9a6b622bfb7b924f33249796dafa0f3b281a95cd"
+  integrity sha512-WjqHNxSjB2w4xh+vLkhHmUhoAkJWnDPlpPktFPXOEgKDknuSDbGHO8muKnJLRrLJPNtqAs79EzAIIX8FQFTfnQ==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
